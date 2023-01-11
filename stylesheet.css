@@ -1,0 +1,11 @@
+.Container {
+    text-align: center;
+    font-family: monospace;
+    background-color: rgb(209, 209, 209);
+    padding: 10px;
+    padding-bottom: 40px;
+    margin-left: 38%;
+    margin-right: 38%;
+    border-radius: 25px;
+    margin-top: 10%;
+}
